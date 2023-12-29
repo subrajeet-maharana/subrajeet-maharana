@@ -37,3 +37,9 @@
 	<a href="https://www.facebook.com/subrajeet-maharana"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/subrajeet.maharana/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+
+<h3>⚡ Recent GitHub Activity</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subrajeet-maharana&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+ 
