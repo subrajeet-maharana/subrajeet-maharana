@@ -17,12 +17,12 @@
 <img align="right" src="https://github.com/subrajeet-maharana/subrajeet-maharana/blob/main/Images/coderTyping.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a `MCA Student` from the [Computer Science Department]() at [NIT Jamshedpur]().
-- :trophy: 3x `ACPC` Finalist.
+- :school: I am a `MCA Student` from the [Computer Science Department](https://www.nitjsr.ac.in/departments/cs) at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
+- :trophy: Vice President at E-Cell, NIT Jamshedpur
 - :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a programmer at `Codeforces`, `Leetcode`, `Codechef`, `GFG`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.subrajeet-maharana.me/SubrajeetResume.pdf).
+- :boom: You can visit [MY WEBSITE](https://subrajeet-maharana.me).
 <br>
