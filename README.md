@@ -42,4 +42,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subrajeet-maharana&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
- 
+
+<h3> 🔥 Streak Stats</h3>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=subrajeet-maharana&theme=tokyonight_duo" alt="subrajeet-maharana" /></p>
