@@ -26,3 +26,13 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.subrajeet-maharana.me/SubrajeetResume.pdf).
 - :boom: You can visit [MY WEBSITE](https://subrajeet-maharana.me).
 <br>
+
+## <img src="https://github.com/subrajeet-maharana/subrajeet-maharana/blob/main/Images/connectWithMe.gif?raw=true" width="10%"> Connect with me
+<p align="center">
+	<a href="mailto:subrajeet.info@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/subrajeet-maharana"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/8327799127"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/subrajeet-maharana/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/subrajeet-maharana"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/subrajeet.maharana/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
