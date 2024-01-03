@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="right" src="https://github.com/subrajeet-maharana/subrajeet-maharana/blob/main/Images/coderTyping.gif?raw=true" width=30%>
+<img align="right" src="https://github.com/subrajeet-maharana/subrajeet-maharana/blob/main/Images/codingVectorArt.gif?raw=true" width=30%>
 
 - :school: I am a `MCA Student` from the [Computer Science Department](https://www.nitjsr.ac.in/departments/cs) at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
 - :trophy: Vice President at E-Cell, NIT Jamshedpur
