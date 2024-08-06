@@ -19,10 +19,9 @@
 <img align="right" src="https://github.com/subrajeet-maharana/subrajeet-maharana/blob/main/Images/codingVectorArt.gif?raw=true" width=30%>
 
 - :school: I am a `MCA Student` from the [Computer Science Department](https://www.nitjsr.ac.in/departments/cs) at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
-- :trophy: Vice President at E-Cell, NIT Jamshedpur
+- :trophy: Training and Placement Coordinator @NIT Jamshedpur, Former VP @E-Cell, NIT Jamshedpur
 - :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a programmer at `Codeforces`, `Leetcode`, `Codechef`, `GFG`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.subrajeet-maharana.me/SubrajeetResume.pdf).
 - :boom: You can visit [MY WEBSITE](https://subrajeet-maharana.me).
