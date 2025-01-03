@@ -16,19 +16,10 @@
 
 <br>
 
-<img align="right" src="https://github.com/subrajeet-maharana/subrajeet-maharana/blob/main/Images/codingVectorArt.gif?raw=true" width=30%>
-
-- :school: I am a `MCA Student` at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
-- :trophy: Training and Placement Coordinator @NIT Jamshedpur
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.subrajeet-maharana.me/SubrajeetResume.pdf).
-- :boom: You can visit [MY WEBSITE](https://subrajeet-maharana.me).
+- :school: I am a `Computer Science Student` at [NIT Jamshedpur](https://www.nitjsr.ac.in/).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://subrajeet-maharana.vercel.app/SubrajeetResume.pdf).
+- :boom: You can visit [MY WEBSITE](https://subrajeet-maharana.vercel.app/).
 <br>
-
-##  Connect with me
-<p align="center">
-	<a href="https://www.linkedin.com/in/subrajeet-maharana/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/subrajeet.maharana/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
 
 <br>
 <p align = "center">
